@@ -1,0 +1,23 @@
+{
+  "name": "virtucious",
+  "version": "1.0.0",
+  "description": "momma-chan",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtucious/solanaworkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virtucious/solanaworkshop/issues"
+  },
+  "homepage": "https://github.com/Virtucious/solanaworkshop#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
